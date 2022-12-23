@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katewcarlin
 - 👀 I’m interested in project management, software development, and tech!
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on small projects and find a place where I can both contribute and learn. 
 - 📫 You can reach me at Katewcarlin@gmail.com ! 
 

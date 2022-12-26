@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katewcarlin
 - 👀 I’m interested in project management, billiards, and tech!
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on small projects and find a place where I can both contribute and learn. 
+- 💞️ I’m posting coding projects I have created here to look back on.  
 - 📫 You can reach me at Katewcarlin@gmail.com ! 
 
 <!---
